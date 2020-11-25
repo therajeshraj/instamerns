@@ -11,3 +11,6 @@
   - MongoDB (ATLAS)
  
 # Mailer - SendGrid
+
+# Note
+  - Screenshot Attached
