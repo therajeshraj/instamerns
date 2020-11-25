@@ -1,15 +1,13 @@
-# instamerns
+# Instamerns
 
-Instamerns
-
-Frontend 
+# Frontend 
   - React JS
 
-Backend 
+# Backend 
   - Node JS
   - Express JS
   
-Database
+# Database
   - MongoDB (ATLAS)
  
-Mailer - SendGrid
+# Mailer - SendGrid
