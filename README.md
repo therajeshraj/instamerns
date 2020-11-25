@@ -12,4 +12,4 @@ Backend
 Database
   - MongoDB (ATLAS)
  
-Emailer - SendGrid
+Mailer - SendGrid
