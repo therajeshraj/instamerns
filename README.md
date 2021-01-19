@@ -2,6 +2,10 @@
 
 Demo : https://instamern.herokuapp.com/
 
+# Credential
+  Email : rajesh@gmail.com
+  Password : rajesh
+
 # Frontend 
   - React JS
 
